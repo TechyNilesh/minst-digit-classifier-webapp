@@ -13,4 +13,4 @@ sketchpad = gr.inputs.Sketchpad()
 label = gr.outputs.Label(num_top_classes=3)
 
 gr.Interface(fn=recognize_digit, inputs=sketchpad,
-  outputs=label, live=True).launch()
+  outputs=label, live=True).launch(share=True)
