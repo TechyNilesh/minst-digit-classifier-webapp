@@ -1,5 +1,6 @@
 # MINST Digit Classifier Webapp
-![Gradio](https://img.shields.io/badge/Gradio-v1.0.0-orange) ![TensorFlow](https://img.shields.io/badge/TensorFlow-v2.0.1-red) ![Python](https://img.shields.io/badge/Python-v3-green) 
+![Gradio](https://img.shields.io/badge/Gradio-v1.0.0-orange) ![TensorFlow](https://img.shields.io/badge/TensorFlow-v2.0.1-red) ![Python](https://img.shields.io/badge/Python-v3-green)
+
 This is a simple webapp created in **Gradio** App and **TensorFlow**
 
 Gradio allows you to quickly create customizable UI components around your TensorFlow or PyTorch models, or even arbitrary Python functions. Mix and match components to support any combination of inputs and outputs. Our core library is free and open-source!
